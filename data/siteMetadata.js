@@ -10,8 +10,8 @@ const siteMetadata = {
   siteRepo: 'https://github.com/YOUR_USERNAME/timeweaver-website',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/banner.png',
-  email: 'your@email.com',
-  github: 'https://github.com/YOUR_USERNAME',
-  twitter: 'https://twitter.com/YOUR_HANDLE',
+  email: 'ba.shahdadpuri.bhavesh@gmail.com',
+  github: 'https://github.com/bhavesh1995',
+  twitter: 'https://twitter.com/BhaveshShahdad1',
   linkedin: 'https://linkedin.com/in/bhavesh-s-845b3a65',
 }
