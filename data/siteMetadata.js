@@ -15,3 +15,4 @@ const siteMetadata = {
   twitter: 'https://twitter.com/BhaveshShahdad1',
   linkedin: 'https://linkedin.com/in/bhavesh-s-845b3a65',
 }
+export default siteMetadata
