@@ -7,7 +7,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://timeweaver.vercel.app',
-  siteRepo: 'https://github.com/YOUR_USERNAME/timeweaver-website',
+  siteRepo: 'https://github.com/bhavesh1995/timeweaver-website',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/banner.png',
   email: 'ba.shahdadpuri.bhavesh@gmail.com',
